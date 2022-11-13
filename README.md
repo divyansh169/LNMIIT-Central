@@ -1,4 +1,4 @@
-# FoodOn
+# FoodOn test
 
 ## Installation Guide
 1. Clone repository
