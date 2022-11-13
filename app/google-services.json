@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46228344043",
+    "firebase_url": "https://fooddelivery-d9c7a-default-rtdb.firebaseio.com",
+    "project_id": "fooddelivery-d9c7a",
+    "storage_bucket": "fooddelivery-d9c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46228344043:android:b4ac2494ded45a8d7782ae",
+        "android_client_info": {
+          "package_name": "com.citymart.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46228344043-1s7oe0cd9kguipknmjv0a0edm6g9bfe4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citymart.app",
+            "certificate_hash": "d46103ee195509a80eef28c15f30fc515a3a6bda"
+          }
+        },
+        {
+          "client_id": "46228344043-662jnpk3nf5hca6hp0lmlje6nefho6f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBigvq2cb0o03GZQRq1mhIwf6IQafPYEms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46228344043-662jnpk3nf5hca6hp0lmlje6nefho6f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
